@@ -104,3 +104,7 @@ button {
     height: 80px;
     background: #ccc;
 }
+
+.small-img img {
+    width: 120px;
+}

@@ -133,4 +133,6 @@ button {
     position: absolute;
     left: 10%;
     top: 22%;
+    font-size: 130px;
+    opacity: 0.3;
 }

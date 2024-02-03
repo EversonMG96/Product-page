@@ -18,4 +18,8 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 30px 8%;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }

@@ -89,6 +89,7 @@ button {
 }
 .feature-img img {
     width: 80%;
+    transform: rotate(-20deg);
 }
 
 .small-img-row {
@@ -107,4 +108,5 @@ button {
 
 .small-img img {
     width: 120px;
+    transform: translate(-50px, 20px) rotate(-20deg);
 }

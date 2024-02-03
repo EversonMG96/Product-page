@@ -90,3 +90,11 @@ button {
 .feature-img img {
     width: 80%;
 }
+
+.small-img-row {
+    display: flex;
+    width: 80%;
+    margin: 70px auto 0;
+    align-items: center;
+    justify-content: space-around;
+}

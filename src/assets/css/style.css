@@ -83,6 +83,7 @@ button {
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
+    transition: transform 0.5s;
 }
 
 .feature-img {
@@ -135,4 +136,9 @@ button {
     top: 22%;
     font-size: 130px;
     opacity: 0.3;
+}
+
+button:hover {
+    background: #aa0505;
+    transform: translateY(-5px);
 }

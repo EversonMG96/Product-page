@@ -41,7 +41,6 @@ nav {
     height: 100%;
     width: 100%;
     display: flex;
-    background-color: cadetblue;
 }
 
 .col-1, .col-2 {
@@ -50,4 +49,8 @@ nav {
     display: flex;
     justify-content: center;
     flex-direction: column;
+}
+
+.col-2 {
+    background: red;
 }

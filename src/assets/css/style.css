@@ -54,3 +54,7 @@ nav {
 .col-2 {
     background: red;
 }
+
+.col-1 {
+    padding: 8%;
+}

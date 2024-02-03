@@ -87,3 +87,6 @@ button {
     width: 100%;
     text-align: center;
 }
+.feature-img img {
+    width: 80%;
+}

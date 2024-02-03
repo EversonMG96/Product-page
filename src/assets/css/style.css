@@ -98,3 +98,9 @@ button {
     align-items: center;
     justify-content: space-around;
 }
+
+.small-img {
+    width: 80px;
+    height: 80px;
+    background: #ccc;
+}

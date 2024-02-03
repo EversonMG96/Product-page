@@ -58,3 +58,9 @@ nav {
 .col-1 {
     padding: 8%;
 }
+
+.col-1 h1 {
+    font-size: 74px;
+    line-height: 100px;
+    margin-bottom: 5px;
+}
